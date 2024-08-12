@@ -1,4 +1,4 @@
-**MOTION DETECTION SECURITY ALARM**
+# Motion Detection Security Alarm
 
 This script implements motion detection security system using Python, OpenCV, and Pygame.
 
